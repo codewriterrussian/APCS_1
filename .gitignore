@@ -17,3 +17,6 @@ env/
 # IDE
 .idea/
 .vscode/
+
+notebooks_solution_teacher_only/
+student_handouts_md_not_upload/
